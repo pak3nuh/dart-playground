@@ -4,7 +4,7 @@
 `dart pub get`
 
 ### Test
-`dart test tes`
+`dart test test`
 
 ### Run main file
 `dart pub run bin/playground.dart`
