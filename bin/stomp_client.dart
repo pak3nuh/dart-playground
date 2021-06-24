@@ -41,5 +41,5 @@ void _printError(Object p1) {
 }
 
 void _onWebsocketDone() {
-  print("Websocket Connected");
+  print("Websocket done");
 }
